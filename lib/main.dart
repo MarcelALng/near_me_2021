@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 import 'home_screen.dart';
 
+import 'package:flutter_dotenv/flutter_dotenv.dart';
+
 void main() => runApp(NearMeApp());
 
 class NearMeApp extends StatelessWidget {
