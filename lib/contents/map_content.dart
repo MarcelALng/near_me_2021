@@ -9,7 +9,7 @@ class MapContent extends StatelessWidget {
       alignment: Alignment.center,
       child: Text(
         "Map",
-        style: TextStyle(color: Colors.white),
+        style: TextStyle(color: Colors.white, fontSize: 60),
       ),
     );
   }
