@@ -22,7 +22,8 @@ dependencies:
   curved_navigation_bar:
   google_maps_flutter:
   flutter_dotenv:
-
+  http:
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
